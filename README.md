@@ -3,6 +3,21 @@
     <img src="https://user-images.githubusercontent.com/30645315/68544440-37ffdd80-03e9-11ea-8acd-3f3f9b6fc8b3.png">
     <h1>Plants-Disease-Detection_using_TF_with_Keras</h1>
   </div>  
+  <div align="center">
+<!--     <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+    <a href="https://github.com/anotherwebguy/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras"><img src="https://img.shields.io/badge/PR's%3F-Welcomed-brightgreen.svg?v=103"></a><br> -->
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras/watchers"><img src="https://img.shields.io/github/watchers/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras?style=flat"></a> 
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras/graphs/contributors"><img src="https://img.shields.io/github/contributors/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras?color=brightgreen"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras/stargazers"><img src="https://img.shields.io/github/stars/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras?color=0059b3"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras/network/members"><img src="https://img.shields.io/github/forks/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras?color=yellow"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras/issues"><img src="https://img.shields.io/github/issues/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras?color=0059b3"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras?color=yellow"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras/pulls"><img src="https://img.shields.io/github/issues-pr/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras?color=brightgreen"></a>
+    <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras?color=0059b3"></a> 
+  </div>
   <img src="https://agropecuariaoliveira.com/wp-content/uploads/2020/12/slide.jpg">
 </div>  
 
@@ -11,7 +26,7 @@ Plants Disease Detection using CNN Model in Machine Learning.
 ### List of contents
 
 - [Introduction](#introduction)
-- [Working](#working)
+- [Approach](#aproach)
 - [Installation](#installation)
 - [Dataset Description](#dataset-description)
 - [Running](#running)
@@ -24,6 +39,20 @@ Plant disease can directly lead to stunted growth causing bad effects on yields.
 In  agriculture products, diseases  are the main  cause for the lessening  in  both  quality  and  production of  the  agriculture products.  Farmers puts their  great effort in picking best  seeds of plant  and also  provide proper environment for the growth of the plant, although there are lot of  diseases  that  affects  plant  result  in  plant  disease. <br><br>
 Recognition of the deleterious regions of plants can be considered as the solution for saving the reduction of crops and productivity. The past traditional approach for disease detection and classification requires enormous amount of time, extreme amount of work and continues farm monitoring.
 
+## Aproach
+[(Back to top)](#list-of-contents)
+
+
+#### 1. Choice of deep learning architecture:
+* GoogLeNet(Inception_V3)
+#### 2. Choice of training mechanism:
+* Transfer Learning
+#### 3. Choice of dataset type:
+* Color
+#### 4. Choice of training-testing set distribution:
+* Train: 80%, Test: 20% <br>
+
+The inception module uses parallel 1 × 1, 3 × 3, and 5 × 5 convolutions along with a max-pooling layer in parallel, hence enabling it to capture a variety of features in parallel.
 
 ## Dataset Description:
 [(Back to top)](#list-of-contents)
