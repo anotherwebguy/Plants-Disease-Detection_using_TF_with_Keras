@@ -29,7 +29,7 @@ Plants Disease Detection using CNN Model in Machine Learning.
 - [Approach](#aproach)
 - [Installation](#installation)
 - [Dataset Description](#dataset-description)
-- [Running](#running)
+- [Results](#results)
 - [License](#license)
 
 
