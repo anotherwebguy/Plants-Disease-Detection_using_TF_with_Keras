@@ -1,7 +1,7 @@
 <div align="center"> 
   <div > 
     <img src="https://user-images.githubusercontent.com/30645315/68544440-37ffdd80-03e9-11ea-8acd-3f3f9b6fc8b3.png">
-    <h1>Plants-Disease-Detection_using_TF_with_Keras</h1>
+    <h1>Plants-Disease-Detection_using_TF_with_Keras.</h1>
   </div>  
   <div align="center">
 <!--     <a href="https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
