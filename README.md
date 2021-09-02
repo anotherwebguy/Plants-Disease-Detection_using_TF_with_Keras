@@ -27,10 +27,8 @@ Plants Disease Detection using CNN Model in Machine Learning.
 
 - [Introduction](#introduction)
 - [Approach](#aproach)
-- [Installation](#installation)
 - [Dataset Description](#dataset-description)
 - [Results](#results)
-- [License](#license)
 
 
 ## Introduction
@@ -80,4 +78,9 @@ Plant Village dataset is a public dataset of 54,305 images of diseased and healt
 
 ![38](https://user-images.githubusercontent.com/66346161/130379553-4803694e-4054-4f71-a4af-1fab8498ddb8.jpg)
 
+## Results
+[(Back to top)](#list-of-contents) <br><br>
 
+![Screenshot from 2021-09-02 07-35-07](https://user-images.githubusercontent.com/66346161/131769696-84a71a3f-e8ae-4c74-b562-8bca91aec05e.png)
+
+Acieved an training accuracy of <b> 90.19 </b> and validation accuracy of <b> 91.97 </b>
